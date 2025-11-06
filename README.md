@@ -54,8 +54,8 @@ It displays *real-time CPU and Memory usage, **process lists, and allows users t
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/system_monitor.git
-cd system_monitor
+https://github.com/Sohenna23/WiproCapstoneProject.git
+cd system_moniter
 ```
 ### 2. Compile the code
 ```bash
@@ -69,8 +69,8 @@ g++ -std=c++17 system_moniter.cpp -o system_monitor
 ---
 
 ### 🎮 Controls
-- 1. q : Quit the monitor
-- 2. k : Kill a process(with a PID)
+- q : Quit the monitor
+- k : Kill a process(with a PID)
  
 ---
 
@@ -95,5 +95,6 @@ Works best in Linux terminals (may render slightly differently in Windows Termin
 
 ### 🧑‍💻 Author
 
-Sohenna Choudhury
-📧 sohennachoudhury@gmail.com
+- Sohenna Choudhury
+- 📧 sohennachoudhury@gmail.com
+
